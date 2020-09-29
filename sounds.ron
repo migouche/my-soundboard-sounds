@@ -3,7 +3,7 @@
     name: "Migouche Custom",
     sounds: [
         (
-            name: "Stop it",
+            name: "Stop It",
             wav: "stop it.wav",
             img: Some("stopit.jpg")
         ),
