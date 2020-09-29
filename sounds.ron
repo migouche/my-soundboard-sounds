@@ -11,6 +11,11 @@
             name: "Epic Sax Guy",
             wav: "sax.wav",
             img: Some("sax.png")
+        ),
+        (
+            name: "DISCUSTING",
+            wav: "discusting.wav",
+            img: None
         )
     ]
 )
