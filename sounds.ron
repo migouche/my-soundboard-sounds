@@ -14,7 +14,7 @@
         ),
         (
             name: "DISCUSTING",
-            wav: "discusting.wav",
+            wav: "disgusting.wav",
             img: None
         )
     ]
