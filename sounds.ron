@@ -16,6 +16,11 @@
             name: "DISCUSTING",
             wav: "disgusting.wav",
             img: None
+        ),
+        (
+            name: "Cara al Sol REMIX",
+            wav: "esp.wav",
+            img: None
         )
     ]
 )
