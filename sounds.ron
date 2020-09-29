@@ -3,14 +3,9 @@
     name: "Migouche Custom",
     sounds: [
         (
-            name: "PootisEngage",
-            wav: "POOTIS ENGAGE.wav",
-            img: Some("POOTIS ENGAGE.png")
-        ),
-        (
-            name: "Maybe",
-            wav: "Maybe.wav",
-            img: None
+            name: "Stop it",
+            wav: "stop it.wav",
+            img: Some("stopit.png")
         )
     ]
 )
