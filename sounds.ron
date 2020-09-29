@@ -6,6 +6,11 @@
             name: "Stop it",
             wav: "stop it.wav",
             img: Some("stopit.jpg")
+        ),
+        (
+            name: "Epic Sax Guy",
+            wav: "sax.wav",
+            img: Some("sax.png")
         )
     ]
 )
