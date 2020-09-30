@@ -21,6 +21,11 @@
             name: "Cara al Sol REMIX",
             wav: "esp.wav",
             img: None
+        ),
+        (
+            name: "Just Do It! Ultimate REMIX",
+            wav: "do it remix.wav"
+            img: None
         )
     ]
 )
