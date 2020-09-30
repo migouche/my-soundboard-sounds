@@ -24,7 +24,7 @@
         ),
         (
             name: "Just Do It! Ultimate REMIX",
-            wav: "do it remix.wav"
+            wav: "do it remix.wav",
             img: None
         )
     ]
